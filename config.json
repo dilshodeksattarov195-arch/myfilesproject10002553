@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userpetch",
+        "uuid": 14414238,
+        "checksum": "cxam5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
